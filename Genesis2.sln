@@ -1,7 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{6c5e5bc3-2edd-aefb-0e4a-e91f2f0df1fa}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMODUnityResonance", "FMODUnityResonance.csproj", "{9FE5E539-99CB-5176-AA30-066783CB9C28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMODUnity", "FMODUnity.csproj", "{6C5C222D-7A66-F003-7435-913D79F95A04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{C35B5E6C-DD2E-FBAE-0E4A-E91F2F0DF1FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMODUnityEditor", "FMODUnityEditor.csproj", "{3B0FB10A-B815-EE87-809F-BE28EEF58BFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMODUnityResonanceEditor", "FMODUnityResonanceEditor.csproj", "{0C688A52-40C3-82A9-A623-5348FA9A420F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +17,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6c5e5bc3-2edd-aefb-0e4a-e91f2f0df1fa}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6c5e5bc3-2edd-aefb-0e4a-e91f2f0df1fa}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6c5e5bc3-2edd-aefb-0e4a-e91f2f0df1fa}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6c5e5bc3-2edd-aefb-0e4a-e91f2f0df1fa}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FE5E539-99CB-5176-AA30-066783CB9C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE5E539-99CB-5176-AA30-066783CB9C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE5E539-99CB-5176-AA30-066783CB9C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE5E539-99CB-5176-AA30-066783CB9C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C5C222D-7A66-F003-7435-913D79F95A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5C222D-7A66-F003-7435-913D79F95A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5C222D-7A66-F003-7435-913D79F95A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5C222D-7A66-F003-7435-913D79F95A04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C35B5E6C-DD2E-FBAE-0E4A-E91F2F0DF1FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35B5E6C-DD2E-FBAE-0E4A-E91F2F0DF1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35B5E6C-DD2E-FBAE-0E4A-E91F2F0DF1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35B5E6C-DD2E-FBAE-0E4A-E91F2F0DF1FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0FB10A-B815-EE87-809F-BE28EEF58BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0FB10A-B815-EE87-809F-BE28EEF58BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0FB10A-B815-EE87-809F-BE28EEF58BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0FB10A-B815-EE87-809F-BE28EEF58BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C688A52-40C3-82A9-A623-5348FA9A420F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C688A52-40C3-82A9-A623-5348FA9A420F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C688A52-40C3-82A9-A623-5348FA9A420F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C688A52-40C3-82A9-A623-5348FA9A420F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
